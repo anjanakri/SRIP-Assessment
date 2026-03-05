@@ -1,7 +1,6 @@
 import pandas as pd
 import re
 
-
 #data cleaning nasal airflow, thoracic, spo2
 #30.05.2024 20:59:00,000; 120
 def format_signal(filepath):
